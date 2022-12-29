@@ -1,0 +1,11 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const EMPTY_CART = "EMPTY_CART";
+export const ADD_QUANTITY = "ADD_QUANTITY";
+export const SET_PRODUCT_LIST = "SET_PRODUCT_LIST";
+export const PRODUCT_LIST = "PRODUCT_LIST";
+export const SEARCH_PRODUCT = "SEARCH_PRODUCT";
+export const DECREASE_QUANTITY = "DECREASE_QUANTITY";
+export const REGISTER = "REGISTER"
+export const LOGIN = "LOGIN"
+export const LOGOUT = "LOGOUT"
